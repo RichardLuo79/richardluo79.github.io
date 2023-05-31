@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Haocong (Richard) Luo's Personal Site"
+title                    : "Haocong (Richard) Luo"
 title_separator          : "-"
 name                     : &name "Haocong (Richard) Luo"
 description              : &description "PhD Student at ETH Zurich"
